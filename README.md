@@ -1,4 +1,4 @@
-# Generate Comments and Context with KoGPT2-generator
+# Comments and Context Generator with KoGPT2 model
 
 ### KoGPT2 SKT-AI Github
 https://github.com/SKT-AI/KoGPT2
